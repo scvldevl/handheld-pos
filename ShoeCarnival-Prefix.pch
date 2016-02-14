@@ -1,0 +1,59 @@
+#import <Availability.h>
+
+#ifndef __IPHONE_4_3
+#warning "This project uses features only available in iPhone SDK 4.3 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+/*
+ *  System Versioning Preprocessor Macros
+ */ 
+
+#define SYSTEM_VERSION_EQUAL_TO(v)                  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedSame)
+#define SYSTEM_VERSION_GREATER_THAN(v)              ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedDescending)
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN(v)                 ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN_OR_EQUAL_TO(v)     ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedDescending)
+
+#define LOG_TO_WIFI (0)
+#if LOG_TO_WIFI
+#import "WiFiSessionController.h"
+//#import "AppDelegate.h"
+//#   define WiFiLog(fmt, ...) [(AppDelegate *)[UIApplication sharedApplication] wifiLog:[NSString stringWithFormat:(fmt), ##__VA_ARGS__]];
+#   define WiFiLog(fmt, ...) [[WiFiSessionController sharedController] wifiLog:[NSString stringWithFormat:(fmt), ##__VA_ARGS__]];
+#else
+#   define WiFiLog(fmt, ...)
+#endif
+
+#define SEND_SYSLOG (0)
+
+#if DEBUG
+#if SEND_SYSLOG
+    void SCLogToSyslog(NSString *fmt, ...) ;
+    #define DLog(fmt, ...) SCLogToSyslog(fmt, ##__VA_ARGS__);
+#else
+#if LOG_TO_WIFI
+#	define DLog(fmt, ...) WiFiLog((@"%s:%d " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#	define DLog(fmt, ...) NSLog((@"%s:%d " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#endif
+#endif
+#else
+#	define DLog(...)
+#endif
+
+// Spoken debugging - helps a lot when device is in Verifone sled and we can't debug normally or even see the log easily
+#if (DEBUG & SPEAK_DEBUG_STRINGS)
+
+#import "GSKFlite.h"
+
+#define SPLog(fmt, ...) [[GSKFlite sharedSpeechEngine] speakText:[NSString stringWithFormat:(fmt), ##__VA_ARGS__]];
+#else
+#define SPLog(fmt, ...)
+#endif
+
+
+#endif // __OBJC__

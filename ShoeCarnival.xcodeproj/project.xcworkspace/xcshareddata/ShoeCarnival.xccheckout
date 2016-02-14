@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F1D884E-C499-44B2-8806-29F40921FB5B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShoeCarnival</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C31EFE9F-21DD-46C1-9D50-811161FCE54C</key>
+		<string>https://svn.bignerdranch.com/svn/bnr/consulting/ShoeCarnival/trunk/ShoeCarnival/iPhone/ShoeCarnival.xcodeproj/project.xcworkspace</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string></string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C31EFE9F-21DD-46C1-9D50-811161FCE54C</key>
+		<string></string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>C31EFE9F-21DD-46C1-9D50-811161FCE54C</key>
+		<string>https://svn.bignerdranch.com/svn/bnr</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C31EFE9F-21DD-46C1-9D50-811161FCE54C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C31EFE9F-21DD-46C1-9D50-811161FCE54C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>project.xcworkspace</string>
+		</dict>
+	</array>
+</dict>
+</plist>

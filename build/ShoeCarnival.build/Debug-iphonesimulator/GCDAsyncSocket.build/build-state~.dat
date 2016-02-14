@@ -1,0 +1,301 @@
+TGCDAsyncSocket
+v7
+r0
+t370653218.240326
+cCheck dependencies
+cProcessPCH /var/folders/El/El5BswZ+EGqdlPLd1p2j1++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GCDAsyncSocket-Prefix-dvrtwaugqxcvbnfmlnlxmobuwlvi/GCDAsyncSocket-Prefix.pch.pth GCDAsyncSocket/GCDAsyncSocket-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/GCDAsyncSocket.o "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/JBContainedURLConnection.o "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/JBContainedURLConnection.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004F551CF700000000002051E0
+t1330978039
+s2118112
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004F551CF700000000000004CF
+t1330978039
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004F551CF80000000000285600
+t1330978040
+s2643456
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F551D040000000000353830
+t1330978052
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F551D030000000000001534
+t1330978051
+s5428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Security.framework/Headers/SecureTransport.h
+c000000004F551D1A0000000000007608
+t1330978074
+s30216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004F551D1A00000000000004F5
+t1330978074
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004F551D1B0000000000080D30
+t1330978075
+s527664
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F551D220000000000000BF5
+t1330978082
+s3061
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/arpa/inet.h
+c000000004F551DAB0000000000001533
+t1330978219
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/dispatch/dispatch.h
+c000000004F551DB1000000000000061D
+t1330978225
+s1565
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/fcntl.h
+c000000004F551DB100000000000003EA
+t1330978225
+s1002
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/ifaddrs.h
+c000000004F551DB100000000000008F5
+t1330978225
+s2293
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/net/if.h
+c000000004F551DB30000000000003DE8
+t1330978227
+s15848
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/netdb.h
+c000000004F551DB3000000000000307F
+t1330978227
+s12415
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/netinet/in.h
+c000000004F551DB30000000000006BC9
+t1330978227
+s27593
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/sys/ioctl.h
+c000000004F551DB6000000000000116C
+t1330978230
+s4460
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/sys/poll.h
+c000000004F551DB6000000000000123C
+t1330978230
+s4668
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/sys/socket.h
+c000000004F551DB70000000000005B28
+t1330978231
+s23336
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/sys/types.h
+c000000004F551DB70000000000002905
+t1330978231
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/sys/uio.h
+c000000004F551DB70000000000001126
+t1330978231
+s4390
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/include/unistd.h
+c000000004F551DB800000000000066D1
+t1330978232
+s26321
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket-Prefix.pch
+c000000005062337600000000000000A9
+t1348612982
+s169
+i<Foundation/Foundation.h>
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.h
+c000000005014BE7A000000000000BAAD
+t1343536762
+s47789
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i<Security/SecureTransport.h>
+i<dispatch/dispatch.h>
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m
+c000000005064A05B000000000002FA66
+t1348771931
+s195174
+i"GCDAsyncSocket.h"
+i<CFNetwork/CFNetwork.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<netinet/in.h>
+i<net/if.h>
+i<sys/socket.h>
+i<sys/types.h>
+i<sys/ioctl.h>
+i<sys/poll.h>
+i<sys/uio.h>
+i<unistd.h>
+i"DDLog.h"
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/JBContainedURLConnection.h
+c000000004EE89D980000000000000A0B
+t1323867544
+s2571
+i<Foundation/Foundation.h>
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/JBContainedURLConnection.m
+c000000005066231600000000000016F0
+t1348870934
+s5872
+i<UIKit/UIKit.h>
+i"JBContainedURLConnection.h"
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/Debug-iphonesimulator/libGCDAsyncSocket.a
+t2
+s0
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/GCDAsyncSocket.LinkFileList
+c00000000506780A100000000000001B4
+t1348960417
+s436
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/GCDAsyncSocket.o
+t2
+s0
+
+N/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/JBContainedURLConnection.o
+t1348960418
+s32236
+
+N/var/folders/El/El5BswZ+EGqdlPLd1p2j1++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GCDAsyncSocket-Prefix-dvrtwaugqxcvbnfmlnlxmobuwlvi/GCDAsyncSocket-Prefix.pch.pth
+t1348960417
+s2126236
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies370653217#370653217#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/GCDAsyncSocket.o "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370653217.897224
+e370653218.074901
+r0
+xCompileC
+xbuild/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/GCDAsyncSocket.o
+x/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:31:2: warning: #warning This file must be compiled with ARC. Use -fobjc-arc flag (or convert project to ARC). [-W#warnings]
+o #warning This file must be compiled with ARC. Use -fobjc-arc flag (or convert project to ARC).
+o  ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:1505:30: error: unexpected '@' in program
+o         dispatch_block_t block = ^{ @autoreleasepool {
+o                                     ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:1774:36: error: unexpected '@' in program
+o                 dispatch_async(delegateQueue, ^{ @autoreleasepool {
+o                                                  ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:1958:30: error: unexpected '@' in program
+o         dispatch_block_t block = ^{ @autoreleasepool {
+o                                     ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2040:30: error: unexpected '@' in program
+o         dispatch_block_t block = ^{ @autoreleasepool {
+o                                     ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2211:34: error: unexpected '@' in program
+o                 dispatch_async(socketQueue, ^{ @autoreleasepool {
+o                                                ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2218:34: error: unexpected '@' in program
+o                 dispatch_async(socketQueue, ^{ @autoreleasepool {
+o                                                ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2391:35: error: unexpected '@' in program
+o                         dispatch_async(socketQueue, ^{ @autoreleasepool {
+o                                                        ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2400:35: error: unexpected '@' in program
+o                         dispatch_async(socketQueue, ^{ @autoreleasepool {
+o                                                        ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2498:36: error: unexpected '@' in program
+o                 dispatch_async(delegateQueue, ^{ @autoreleasepool {
+o                                                  ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2564:54: error: unexpected '@' in program
+o                 dispatch_source_set_event_handler(connectTimer, ^{ @autoreleasepool {
+o                                                                    ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2772:37: error: unexpected '@' in program
+o                         dispatch_async(delegateQueue, ^{ @autoreleasepool {
+o                                                          ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2782:30: error: unexpected '@' in program
+o         dispatch_block_t block = ^{ @autoreleasepool {
+o                                     ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2800:33: error: unexpected '@' in program
+o         dispatch_async(socketQueue, ^{ @autoreleasepool {
+o                                        ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2812:33: error: unexpected '@' in program
+o         dispatch_async(socketQueue, ^{ @autoreleasepool {
+o                                        ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2824:33: error: unexpected '@' in program
+o         dispatch_async(socketQueue, ^{ @autoreleasepool {
+o                                        ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:3049:33: error: unexpected '@' in program
+o                 dispatch_sync(socketQueue, ^{ @autoreleasepool {
+o                                               ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:3104:33: error: unexpected '@' in program
+o                 dispatch_sync(socketQueue, ^{ @autoreleasepool {
+o                                               ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:3611:51: error: unexpected '@' in program
+o         dispatch_source_set_event_handler(readSource, ^{ @autoreleasepool {
+o                                                          ^
+o/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:3624:52: error: unexpected '@' in program
+o         dispatch_source_set_event_handler(writeSource, ^{ @autoreleasepool {
+o                                                           ^
+ofatal error: too many errors emitted, stopping now [-ferror-limit=]
+o1 warning and 20 errors generated.
+lSLF07#2@147"Compile /Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370653217#370653218#0(6150"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:31:2: warning: #warning This file must be compiled with ARC. Use -fobjc-arc flag (or convert project to ARC). [-W#warnings] #warning This file must be compiled with ARC. Use -fobjc-arc flag (or convert project to ARC).  ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:1505:30: error: unexpected '@' in program         dispatch_block_t block = ^{ @autoreleasepool {                                     ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:1774:36: error: unexpected '@' in program                 dispatch_async(delegateQueue, ^{ @autoreleasepool {                                                  ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:1958:30: error: unexpected '@' in program         dispatch_block_t block = ^{ @autoreleasepool {                                     ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2040:30: error: unexpected '@' in program         dispatch_block_t block = ^{ @autoreleasepool {                                     ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2211:34: error: unexpected '@' in program                 dispatch_async(socketQueue, ^{ @autoreleasepool {                                                ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2218:34: error: unexpected '@' in program                 dispatch_async(socketQueue, ^{ @autoreleasepool {                                                ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2391:35: error: unexpected '@' in program                         dispatch_async(socketQueue, ^{ @autoreleasepool {                                                        ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2400:35: error: unexpected '@' in program                         dispatch_async(socketQueue, ^{ @autoreleasepool {                                                        ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2498:36: error: unexpected '@' in program                 dispatch_async(delegateQueue, ^{ @autoreleasepool {                                                  ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2564:54: error: unexpected '@' in program                 dispatch_source_set_event_handler(connectTimer, ^{ @autoreleasepool {                                                                    ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2772:37: error: unexpected '@' in program                         dispatch_async(delegateQueue, ^{ @autoreleasepool {                                                          ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2782:30: error: unexpected '@' in program         dispatch_block_t block = ^{ @autoreleasepool {                                     ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2800:33: error: unexpected '@' in program         dispatch_async(socketQueue, ^{ @autoreleasepool {                                        ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2812:33: error: unexpected '@' in program         dispatch_async(socketQueue, ^{ @autoreleasepool {                                        ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:2824:33: error: unexpected '@' in program         dispatch_async(socketQueue, ^{ @autoreleasepool {                                        ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:3049:33: error: unexpected '@' in program                 dispatch_sync(socketQueue, ^{ @autoreleasepool {                                               ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:3104:33: error: unexpected '@' in program                 dispatch_sync(socketQueue, ^{ @autoreleasepool {                                               ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:3611:51: error: unexpected '@' in program         dispatch_source_set_event_handler(readSource, ^{ @autoreleasepool {                                                          ^/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m:3624:52: error: unexpected '@' in program         dispatch_source_set_event_handler(writeSource, ^{ @autoreleasepool {                                                           ^fatal error: too many errors emitted, stopping now [-ferror-limit=]1 warning and 20 errors generated.21(22@94"#warning This file must be compiled with ARC. Use -fobjc-arc flag (or convert project to ARC).370653217#0#264#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#31#2#0#0#10"#warning *0(4@25"Unexpected '@' in program370653218#364#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#1505#30#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#641#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#1774#36#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#944#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#1958#30#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#1221#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2040#30#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#1498#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2211#34#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#1797#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2218#34#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#2096#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2391#35#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#2411#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2400#35#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#2726#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2498#36#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#3029#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2564#54#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#3368#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2772#37#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#3687#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2782#30#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#3964#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2800#33#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#4247#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2812#33#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#4530#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#2824#33#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#4813#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#3049#33#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#5110#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#3104#33#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#5407#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#3611#51#0#0#25"unexpected '@' in program0(4@25"Unexpected '@' in program370653218#5726#182#0(6@139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m370464731#3624#52#0#0#25"unexpected '@' in program0(4@37"Too many errors emitted, stopping now370653218#6047#68#0(1@37"too many errors emitted, stopping now0(0#0#139"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m7164797593116230656#2263"    cd "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/GCDAsyncSocket.hmap" "-F/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/Debug-iphonesimulator" -I. -I../Source "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/Debug-iphonesimulator/include" -I. -I../Source "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/DerivedSources/i386" "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/DerivedSources" -include /var/folders/El/El5BswZ+EGqdlPLd1p2j1++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GCDAsyncSocket-Prefix-dvrtwaugqxcvbnfmlnlxmobuwlvi/GCDAsyncSocket-Prefix.pch -c "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket.m" -o "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/GCDAsyncSocket.o"1#
+
+CCompileC build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/JBContainedURLConnection.o "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/JBContainedURLConnection.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370653217.898374
+e370653218.240236
+r1
+xCompileC
+xbuild/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/JBContainedURLConnection.o
+x/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/JBContainedURLConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@142"Compile /Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/JBContainedURLConnection.m370653217#370653218#0(0"0(0#0#134"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/JBContainedURLConnection.m8617592832#2268"    cd "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/GCDAsyncSocket.hmap" "-F/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/Debug-iphonesimulator" -I. -I../Source "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/Debug-iphonesimulator/include" -I. -I../Source "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/DerivedSources/i386" "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/DerivedSources" -include /var/folders/El/El5BswZ+EGqdlPLd1p2j1++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GCDAsyncSocket-Prefix-dvrtwaugqxcvbnfmlnlxmobuwlvi/GCDAsyncSocket-Prefix.pch -c "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/JBContainedURLConnection.m" -o "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/Objects-normal/i386/JBContainedURLConnection.o"0#
+
+CLibtool "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/Debug-iphonesimulator/libGCDAsyncSocket.a" normal i386
+r0
+
+CProcessPCH /var/folders/El/El5BswZ+EGqdlPLd1p2j1++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GCDAsyncSocket-Prefix-dvrtwaugqxcvbnfmlnlxmobuwlvi/GCDAsyncSocket-Prefix.pch.pth GCDAsyncSocket/GCDAsyncSocket-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s370653217.454216
+e370653217.897104
+r1
+xProcessPCH
+x/var/folders/El/El5BswZ+EGqdlPLd1p2j1++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GCDAsyncSocket-Prefix-dvrtwaugqxcvbnfmlnlxmobuwlvi/GCDAsyncSocket-Prefix.pch.pth
+xGCDAsyncSocket/GCDAsyncSocket-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@51"Precompile GCDAsyncSocket/GCDAsyncSocket-Prefix.pch370653217#370653217#0(0"0(0#0#148"/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket-Prefix.pch6008767795746128896#2059"    cd "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/GCDAsyncSocket.hmap" "-F/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/Debug-iphonesimulator" -I. -I../Source "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/Debug-iphonesimulator/include" -I. -I../Source "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/DerivedSources/i386" "-I/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/build/ShoeCarnival.build/Debug-iphonesimulator/GCDAsyncSocket.build/DerivedSources" -c "/Users/billmonk/Documents/Coding Projects/BNRConsulting/ShoeCarnival/ShoeCarnivalVNC1BarCardworking3/iPhone/GCDAsyncSocket/GCDAsyncSocket-Prefix.pch" -o /var/folders/El/El5BswZ+EGqdlPLd1p2j1++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/GCDAsyncSocket-Prefix-dvrtwaugqxcvbnfmlnlxmobuwlvi/GCDAsyncSocket-Prefix.pch.pth0#
+
